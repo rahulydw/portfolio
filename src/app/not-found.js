@@ -20,7 +20,7 @@ export default function NotFound() {
           Page Not Found
         </h2>
         <p className="text-lg text-gray-400 max-w-md mx-auto">
-          Oops! The page you're looking for doesn't exist. Let's get you back to safety.
+          Oops! The page you&apos;re looking for doesn&apos;t exist. Let&apos;s get you back to safety.
         </p>
         <Link href="/">
           <Button
