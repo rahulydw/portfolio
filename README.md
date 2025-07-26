@@ -16,7 +16,7 @@ This is a professional and modern **developer portfolio website** built using th
 
 ---
 
-## 📁 Features
+## Features
 
 ✅ Clean and modern portfolio layout  
 ✅ Dynamic blog section (Markdown-based)  
@@ -26,6 +26,8 @@ This is a professional and modern **developer portfolio website** built using th
 ✅ Optimized Google Fonts via `next/font`  
 ✅ Fully responsive for mobile, tablet, and desktop  
 ✅ Inspired by multiple portfolio UI designs  
-
 ---
+![Home Page Screenshot](./public/portfolio.png)
+---
+### 🚀 Made with 💖 by [Rahul Kumar](https://github.com/rahulydw)
 
